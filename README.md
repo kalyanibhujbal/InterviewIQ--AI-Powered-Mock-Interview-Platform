@@ -152,6 +152,8 @@ The application will run at:
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### Home Page
 ![Home](screenshots/home.png)
 
@@ -162,10 +164,18 @@ The application will run at:
 ![Dashboard](screenshots/dashboard.png)
 
 ### Mock Interview
-![Mock Interview](screenshots/interview.png)
+![Mock Interview](screenshots/interview1.png)
+![Mock Interview](screenshots/interview2.png)
+![Mock Interview](screenshots/interview3.png)
 
 ### AI Feedback
-![Feedback](screenshots/feedback.png)
+![AI Feedback](screenshots/feedback.png)
+
+### Interview History
+![History](screenshots/history.png)
+
+### Payment
+![Payment](screenshots/payment.png)
 
 ### PDF Report
 ![Report](screenshots/report.png)
